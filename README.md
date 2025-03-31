@@ -1,5 +1,8 @@
 # 15 jours pour comprendre les contrôleurs MIDI
 
-## Jour 1 - Envoyer une note à un synthé par le cable MIDI
+L’objectif de cette série de mini-projets est de fabriquer un (ou plusieurs)
+contrôleur MIDI, afin de comprendre comment ça marche.
 
-[projet](./jour01)
+[Jour 1 - Envoyer une note à un synthé par le cable MIDI](./jour01)
+
+Jour 2 - Lire un potentiomètre
