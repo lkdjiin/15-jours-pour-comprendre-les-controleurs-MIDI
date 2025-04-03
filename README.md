@@ -9,7 +9,7 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 3 - Lire un potentiomètre II](./jour03)
 
-Jour 4 - À venir…
+[Jour 4 - Régler le problème de fluctuation](./jour04)
 
 Jour 5 - À venir…
 
