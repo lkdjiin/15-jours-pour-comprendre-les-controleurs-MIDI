@@ -3,7 +3,11 @@
 L’objectif de cette série de mini-projets est de fabriquer un (ou plusieurs)
 contrôleur MIDI, afin de comprendre comment ça marche.
 
+## Smoke test
+
 [Jour 1 - Envoyer une note à un synthé par le cable MIDI](./jour01)
+
+## Envoyer un message CC avec un potentiomètre
 
 [Jour 2 - Lire un potentiomètre](./jour02)
 
@@ -11,7 +15,9 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 4 - Régler le problème de fluctuation](./jour04)
 
-Jour 5 - À venir…
+[Jour 5 - Envoyer le message MIDI Control Change](./jour05)
+
+## Six potentiomètres
 
 Jour 6 - À venir…
 
