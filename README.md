@@ -21,7 +21,7 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 6 - Six potentiomètres](./jour06)
 
-Jour 7 - À venir…
+[Jour 7 - Six potentiomètres - Code objet](./jour07)
 
 Jour 8 - À venir…
 
