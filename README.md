@@ -23,7 +23,9 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 7 - Six potentiomètres - Code objet](./jour07)
 
-Jour 8 - À venir…
+## Prototype en carton
+
+[Jour 8 - Prototype en carton](./jour08)
 
 Jour 9 - À venir…
 
