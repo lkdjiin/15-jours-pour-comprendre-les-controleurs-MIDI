@@ -27,7 +27,7 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 8 - Prototype en carton](./jour08)
 
-Jour 9 - À venir…
+[Jour 9 - Surveiller la consommation](./jour09)
 
 Jour 10 - À venir…
 
