@@ -29,7 +29,9 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 9 - Surveiller la consommation](./jour09)
 
-Jour 10 - À venir…
+[Jour 10 - Une solution hardware au problème de fluctuation ?](./jour10)
+
+## Multiplexeurs
 
 Jour 11 - À venir…
 
