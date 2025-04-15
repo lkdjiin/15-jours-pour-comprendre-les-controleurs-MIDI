@@ -35,7 +35,7 @@ contrôleur MIDI, afin de comprendre comment ça marche.
 
 [Jour 11 - Multiplexeur](./jour11)
 
-Jour 12 - À venir…
+[Jour 12 - Multiplexeur II](./jour12)
 
 Jour 13 - À venir…
 
